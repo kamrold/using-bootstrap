@@ -1,0 +1,53 @@
+body{
+	background-color: #EEE;
+}
+.center {
+  display: block;
+  margin-left: 200px;
+  margin-right: 200px;
+  width: 50%;
+}
+#container {
+	background-color:mediumpurple;
+	width: 1300px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+#container h1 {
+	text-align: center;
+}
+#header{      
+background-color: 66CCFF;
+color:white ;  
+text-align: center;
+
+}
+#content{
+	padding: 10px;
+}
+#nav{
+	  
+	  float: left;
+}
+#main{
+width: 600px;
+float: right;   
+}
+#textarea{
+	max-width: 400px;
+
+}
+#secondmain{
+	width: 400px;
+    
+    float: right;
+}
+#footer{
+	clear: both;
+	padding: 0;
+	background-color: #999;
+	color: white;
+	text-align: center;
+}
+
+
